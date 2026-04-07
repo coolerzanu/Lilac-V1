@@ -16,21 +16,27 @@
 ## Step By Step Guide
 
 ### Step 1 - Ordering the PCB
-- 
+- Please look inside of the gerber file and drag the "GerbZip.zip" File into any popular PCB manufacturing service. JLCPCB or PCBway are both great options to manufacture the PCB. 
 
 ### Step 2 - Printing the Case 
-- 
+- Please download and open the "Keyboard_Case.step" file into any slicer software. This project used bambu studio. Some settings to note: 15% infill density, gyroid infill pattern, ironing top surfaces on, fuzzy walls are optional. This project printed the case with PLA however PETG is a great alternative. 
 
 ### Step 3 - Printing the Plate
-- 
+- (Might sound redundant) Please download and open the "Keyboard_Plates.step" file into any slicer software. This project used bambu studio. Some settings to note: 15% infill density, gyroid infill pattern, ironing top surfaces on. This project printed the case with PLA however PETG is a great alternative. 
 
-### Step 4 - Printing the  Switches
-- 
-
+### Step 4 - Printing the KeyCaps
+- Please download and open the "Keyboard DSA 1u.step" file into any slicer software. This project used bambu studio. Copy the 1u key 12 times and prepare to print with a lavender color. Prepare another plate and copy the keys another 46 times to print with a creame color. Some settings to node:15% infill density, gyroid infill pattern, ironing top surfaces on.
+  
 ### Step 5 - Soldering the Components
-- 
+- Please prepare a safe work enviornemnt with proper ventilation and an N95 mask. Ensure you have a soldering iron, Flux, and possibly solder wick. Start by soldering the SMD LEDs as they are the smallest components before moving to the LEDs and Switches. Rotary Encoders and TRRS Jacks can be left for last.  
 
 ### Step 6 - Assembly
-- 
+- Insert the desired keycaps into the plate now that the sockets are soldered on. For this project I used Kailh Speed Silver switches.
+- Push in and solder the Pro Micro controller into the PCB with the USB-C port facing outward. 
+- Using 4 10mm M2 screws, assemble the keyboard starting with the case, the pcb, and finally the plate. Ensure that all connections are flush and secured. 
 
 ### Step 7 - Firmware
+- Using the attached file in the "Firmware" Folder, flash the QMK firmware onto the board.
+
+### Step 8 - Conclusion
+- With that, Lilac-V1 is done! Feel free to make any modifications with my design and let me know if I should improve anything! If there are any bugs or issues you encounter please let me know and I will try to fix them ASAP. See yall!
