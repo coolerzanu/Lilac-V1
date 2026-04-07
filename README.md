@@ -81,11 +81,11 @@ https://grabcad.com/library/kailh-polia-switch-cherry-mx-compatible-1
 https://editor.keyboard-tools.xyz/
 
 Utilized this software to create the keyboard layout and the keyboard holes. 
-![Keyboard Layout Image](Images/Plate.png)
+![Layout Image](Images/Keyboard_Layout.png)
 > Image of keyboard Layout NG JsonFile(6)
 
 Later Used its custom plate generator to make the DXF file for the Plate. 
-![Plate Generator Image](Images/Keyboard_Layout.png)
+![Plate Generator Image](Images/Plate_Generator.png)
 > Image of custom plate generator
 
 
