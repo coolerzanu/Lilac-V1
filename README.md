@@ -28,6 +28,9 @@ Anyways, I decided to make a custom ergonomic keyboard because I've always seen 
 ### PCB
 - 60 MX Switches
 	- Footprint: marbastlib-xp-mx:SW_MX_HS_KS-2P02B01-01_1u
+- Used Kailh Polia switch (Cherry MX compatible) STEP file for Render
+https://grabcad.com/library/kailh-polia-switch-cherry-mx-compatible-1
+- Official Keyboard is Hot Swappable using kailh hot swappable sockets
 ![Switch Image](Images/Switch.png)
 > Switch Image
 
@@ -45,9 +48,12 @@ Anyways, I decided to make a custom ergonomic keyboard because I've always seen 
 > TRRS Jack Image
 - 2 Rotary Encoders
 	- Footprint: Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+![Rotary Image](Images/Rotary_Encoder.png)
+![Rotary Cap Image](Images/Rotary_Cap.png)
 > Rotary Encoder Image
 - 2 Pro Micro Boards
 	- Footprint: Arduino:Sparkfun_Pro_Micro
+![Pro_Micro Image](Images/Pro_Micro.png)
 > Pro Micro Image
 
 
@@ -55,22 +61,16 @@ Anyways, I decided to make a custom ergonomic keyboard because I've always seen 
 - Custom Cases Designed using Onshape
 - Rough Dimensions 140mm x 150mm
 - Color: #F2EAD1
-
+![Case Top_Image](Images/Case_Top.png)
+![Case Bottom_Image](Images/Case_Bottom.png)
 > Case Image
 
 ### Plate
 - Custom Plate Designed using Onshape
 - Rough Dimensions 130mm x 145mm
 - Color: #BBBDE4
-
+![Plate Image](Images/Plate.png)
 > Plate Image
-
-### Switches
-- Used Kailh Polia switch (Cherry MX compatible) STEP file for Render
-https://grabcad.com/library/kailh-polia-switch-cherry-mx-compatible-1
-- Official Keyboard is Hot Swappable using kailh hot swappable sockets
-> Switch image
-
 
 ## Basic Overview - Firmware + Layout
 
@@ -81,9 +81,11 @@ https://grabcad.com/library/kailh-polia-switch-cherry-mx-compatible-1
 https://editor.keyboard-tools.xyz/
 
 Utilized this software to create the keyboard layout and the keyboard holes. 
+![Keyboard Layout Image](Images/Plate.png)
 > Image of keyboard Layout NG JsonFile(6)
 
 Later Used its custom plate generator to make the DXF file for the Plate. 
+![Plate Generator Image](Images/Keyboard_Layout.png)
 > Image of custom plate generator
 
 
