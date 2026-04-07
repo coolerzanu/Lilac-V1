@@ -3,8 +3,8 @@
 Hello! Welcome to my First Hardware Project. This has been my journey creating my first ever fully custom split ergonomic keyboard!
 
 Lilac-V1 is a Fully Custom 60 Key Split Ergonomic Keyboard for hobbyists. 
-> Front Image Here
-> Back Image Here
+![Zine Image](Images/Lilac-V1_(A5).png)
+> Zine
 
 ## Highlights
 - Compact
@@ -17,6 +17,7 @@ Lilac-V1 is a Fully Custom 60 Key Split Ergonomic Keyboard for hobbyists.
 - Step by Step Guide
 
 
+
 ## Why I made it!!!
 Hi! The original name for this project was "Prak's Ergonomic Journey to Cure his Arthritis!". I have absolutely no experience with electrical related hardware projects so I decided that I might as well start big! Although I did practice a little bit with a small 3x3 macro pad on KiCad I never followed through with making it as I wanted to go big. 
 
@@ -27,17 +28,20 @@ Anyways, I decided to make a custom ergonomic keyboard because I've always seen 
 ### PCB
 - 60 MX Switches
 	- Footprint: marbastlib-xp-mx:SW_MX_HS_KS-2P02B01-01_1u
-
+![Switch Image](Images/Switch.png)
 > Switch Image
 
 - 60 SMD Diodes
 	- Footprint: Diode_SMD:D_SOD-523
+![Diode Image](Images/Diode.png)
 > Diode Image
 - 60 LEDs
 	- Footprint: footprints:SK6812MINI-E_fixed
+![LED Image](Images/LED.png)
 > LED Image
 - 2 TRRS Jacks
 	- marbastlib-xp-various:CON_MJ-4PP-9
+![TRRS Image](Images/TRRS.png)
 > TRRS Jack Image
 - 2 Rotary Encoders
 	- Footprint: Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
