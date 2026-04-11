@@ -23,7 +23,7 @@ Anyways, I decided to make a custom ergonomic keyboard because I've always seen 
 - Used Kailh Polia switch (Cherry MX compatible) STEP file for Render
 https://grabcad.com/library/kailh-polia-switch-cherry-mx-compatible-1
 - Official Keyboard is Hot Swappable using kailh hot swappable sockets
-<img src="Images/Switch.png" alt="Switch Image" width="400">
+<img src="Other/Images/Switch.png" alt="Switch Image" width="400">
 
 > Switch Image
 - 60 SMD Diodes
