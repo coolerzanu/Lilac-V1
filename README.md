@@ -1,7 +1,7 @@
 # Lilac-V1
 Hello! Welcome to my First Hardware Project. This has been my journey creating my first ever fully custom split ergonomic keyboard!
 Lilac-V1 is a Fully Custom 60 Key Split Ergonomic Keyboard for hobbyists. 
-<img src="Images/Lilac-V1_(A5).png" alt="Zine Image" width="600">
+<img src="Other/Images/Lilac-V1_(A5).png" alt="Zine Image" width="600">
 
 > Zine
 ## Highlights
@@ -28,43 +28,43 @@ https://grabcad.com/library/kailh-polia-switch-cherry-mx-compatible-1
 > Switch Image
 - 60 SMD Diodes
 	- Footprint: Diode_SMD:D_SOD-523
-<img src="Images/Diode.png" alt="Diode Image" width="400">
+<img src="Other/Images/Diode.png" alt="Diode Image" width="400">
 
 > Diode Image
 - 60 LEDs
 	- Footprint: footprints:SK6812MINI-E_fixed
-<img src="Images/LED.png" alt="LED Image" width="400">
+<img src="Other/Images/LED.png" alt="LED Image" width="400">
 
 > LED Image
 - 2 TRRS Jacks
 	- marbastlib-xp-various:CON_MJ-4PP-9
-<img src="Images/TRRS.png" alt="TRRS Jack Image" width="400">
+<img src="Other/Images/TRRS.png" alt="TRRS Jack Image" width="400">
 
 > TRRS Jack Image
 - 2 Rotary Encoders
 	- Footprint: Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
-<img src="Images/Rotary_Encoder.png" alt="Rotary Encoder Image" width="400">
-<img src="Images/Rotary_Cap.png" alt="Rotary Cap Image" width="400">
+<img src="Other/Images/Rotary_Encoder.png" alt="Rotary Encoder Image" width="400">
+<img src="Other/Images/Rotary_Cap.png" alt="Rotary Cap Image" width="400">
 
 > Rotary Encoder Image
 - 2 Pro Micro Boards
 	- Footprint: Arduino:Sparkfun_Pro_Micro
-<img src="Images/Pro_Micro.png" alt="Pro Micro Image" width="400">
+<img src="Other/Images/Pro_Micro.png" alt="Pro Micro Image" width="400">
 
 > Pro Micro Image
 ### Case
 - Custom Cases Designed using Onshape
 - Rough Dimensions 140mm x 150mm
 - Color: #F2EAD1
-<img src="Images/Case_Top.png" alt="Case Top Image" width="500">
-<img src="Images/Case_Bottom.png" alt="Case Bottom Image" width="500">
+<img src="Other/Images/Case_Top.png" alt="Case Top Image" width="500">
+<img src="Other/Images/Case_Bottom.png" alt="Case Bottom Image" width="500">
 
 > Case Image
 ### Plate
 - Custom Plate Designed using Onshape
 - Rough Dimensions 130mm x 145mm
 - Color: #BBBDE4
-<img src="Images/Plate.png" alt="Plate Image" width="500">
+<img src="Other/Images/Plate.png" alt="Plate Image" width="500">
 
 > Plate Image
 ## Basic Overview - Firmware + Layout
@@ -72,11 +72,11 @@ https://grabcad.com/library/kailh-polia-switch-cherry-mx-compatible-1
 ### Keyboard Layout Editor NG
 https://editor.keyboard-tools.xyz/
 Utilized this software to create the keyboard layout and the keyboard holes. 
-<img src="Images/Keyboard_Layout.png" alt="Keyboard Layout Image" width="600">
+<img src="Other/Images/Keyboard_Layout.png" alt="Keyboard Layout Image" width="600">
 
 > Image of keyboard Layout NG JsonFile(6)
 Later Used its custom plate generator to make the DXF file for the Plate. 
-<img src="Images/Plate_Generator.png" alt="Plate Generator Image" width="600">
+<img src="Other/Images/Plate_Generator.png" alt="Plate Generator Image" width="600">
 
 > Image of custom plate generator
 # Credits
