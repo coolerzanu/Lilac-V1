@@ -1,7 +1,7 @@
 # Lilac-V1
 Hello! Welcome to my First Hardware Project. This has been my journey creating my first ever fully custom split ergonomic keyboard!
 Lilac-V1 is a Fully Custom 60 Key Split Ergonomic Keyboard for hobbyists. 
-<img src="Other/Images/Lilac-V1_(A5).png" alt="Zine Image" width="600">
+<img src="Other/Images/Lilac-V1_(A5).pdf" alt="Zine Image" width="600">
 
 > Zine
 ## Highlights
