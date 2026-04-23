@@ -18,6 +18,10 @@ Hi! The original name for this project was "Prak's Ergonomic Journey to Cure his
 Anyways, I decided to make a custom ergonomic keyboard because I've always seen youtubers and content creators use split ergonomic keyboards and I've always wanted to try it out. I quickly looked up the price online and they're like on average like $200! Now as a soon to be broke college student I in fact do not have 200 bucks lying around for a keyboard I may not even like. I looked deeper into it and it turns out that most of the keyboards out there are custom made. Noticing this, I figured I could probably figure it out myself, and thus, here I am. 
 ## Basic Overview - Parts
 ### PCB
+<img src="Other/Images/OBJ_PCB_Back.png" alt="Switch Image" width="400">
+<img src="Other/Images/OBJ_PCB_Front.png" alt="Switch Image" width="400">
+
+
 - 60 MX Switches
 	- Footprint: marbastlib-xp-mx:SW_MX_HS_KS-2P02B01-01_1u
 - Used Kailh Polia switch (Cherry MX compatible) STEP file for Render
