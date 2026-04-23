@@ -75,6 +75,12 @@ https://grabcad.com/library/kailh-polia-switch-cherry-mx-compatible-1
 
 ### PCB Schematics
 <img src="Other/Images/Schema_Left.png" alt="Plate Image" width="500">
+> PCB Schema
+
+
+### PCB Routing
+<img src="Other/Images/PCB_Route.png" alt="Plate Image" width="500">
+> Plate Ki-Cad Routing
 
 
 
