@@ -71,6 +71,13 @@ https://grabcad.com/library/kailh-polia-switch-cherry-mx-compatible-1
 <img src="Other/Images/Plate.png" alt="Plate Image" width="500">
 
 > Plate Image
+
+### PCB Schematics
+<img src="Other/Images/Schema_Left.png" alt="Plate Image" width="500">
+
+
+
+
 ## Basic Overview - Firmware + Layout
 ### QMK Firmware
 ### Keyboard Layout Editor NG
