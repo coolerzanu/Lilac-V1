@@ -21,7 +21,10 @@ Anyways, I decided to make a custom ergonomic keyboard because I've always seen 
 ## Onshape CAD Model
 
 <img src="Other/Images/Onshape.png" alt="Switch Image" width="400">
-Link: https://cad.onshape.com/documents/4d8953e5af74fcc880e44e66/w/bef2accd7b1ddfc276551b8b/e/cd08c4a1c934501cd57d1142?renderMode=0&uiState=69d9a727983345c2eac58b5d
+
+Onshape Link
+https://cad.onshape.com/documents/4d8953e5af74fcc880e44e66/w/bef2accd7b1ddfc276551b8b/e/cd08c4a1c934501cd57d1142?renderMode=0&uiState=69ee97f98f8b92d136877fda
+
 > Cad Assembly
 
 
