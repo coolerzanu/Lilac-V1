@@ -17,6 +17,14 @@ Lilac-V1 is a Fully Custom 60 Key Split Ergonomic Keyboard for hobbyists.
 ## Why I made it!!!
 Hi! The original name for this project was "Prak's Ergonomic Journey to Cure his Arthritis!". I have absolutely no experience with electrical related hardware projects so I decided that I might as well start big! Although I did practice a little bit with a small 3x3 macro pad on KiCad I never followed through with making it as I wanted to go big. 
 Anyways, I decided to make a custom ergonomic keyboard because I've always seen youtubers and content creators use split ergonomic keyboards and I've always wanted to try it out. I quickly looked up the price online and they're like on average like $200! Now as a soon to be broke college student I in fact do not have 200 bucks lying around for a keyboard I may not even like. I looked deeper into it and it turns out that most of the keyboards out there are custom made. Noticing this, I figured I could probably figure it out myself, and thus, here I am. 
+
+## Onshape CAD Model
+
+<img src="Other/Images/Onshape.png" alt="Switch Image" width="400">
+Link: https://cad.onshape.com/documents/4d8953e5af74fcc880e44e66/w/bef2accd7b1ddfc276551b8b/e/cd08c4a1c934501cd57d1142?renderMode=0&uiState=69d9a727983345c2eac58b5d
+> Cad Assembly
+
+
 ## Basic Overview - Parts
 ### PCB
 <img src="Other/Images/OBJ_PCB_Back.png" alt="Switch Image" width="400">
