@@ -159,7 +159,12 @@ Later Used its custom plate generator to make the DXF file for the Plate.
 - With that, Lilac-V1 is done! Feel free to make any modifications with my design and let me know if I should improve anything! If there are any bugs or issues you encounter please let me know and I will try to fix them ASAP. See yall!
 
 
+<img src="Other/Images/IRL.png" alt="IRL Build" width="600">
+
+
 - [Video Link](https://youtube.com/watch/vKBJXMWnp74?feature=share)
+
+
 
 
 
